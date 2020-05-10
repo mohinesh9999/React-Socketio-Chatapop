@@ -15,7 +15,7 @@ import Info from './Info'
 
 
 
-const ENDPOINT = "http://127.0.0.1:3000";
+const ENDPOINT = "https://eople-task.herokuapp.com/";
 const socket = io(ENDPOINT);
 
 
